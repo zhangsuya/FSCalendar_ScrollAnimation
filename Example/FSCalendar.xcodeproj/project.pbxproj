@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0410AEAD1C195EC4000E2E54 /* ScrollAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0410AEAC1C195EC4000E2E54 /* ScrollAnimationViewController.m */; };
 		0410AEB11C19610F000E2E54 /* UIView+MLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0410AEB01C19610F000E2E54 /* UIView+MLExtension.m */; };
+		04DC7FCD1CAB721300B70FDE /* FSCalendarScroll.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04DC7FCC1CAB721300B70FDE /* FSCalendarScroll.gif */; };
 		30024F951BD1015300B1C04C /* DelegateAppearanceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30024F941BD1015300B1C04C /* DelegateAppearanceViewController.m */; };
 		3092253A1B905C4300123031 /* FSCalendarConstance.h in Headers */ = {isa = PBXBuildFile; fileRef = 309225381B905C4300123031 /* FSCalendarConstance.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3092253B1B905C4300123031 /* FSCalendarConstance.m in Sources */ = {isa = PBXBuildFile; fileRef = 309225391B905C4300123031 /* FSCalendarConstance.m */; };
@@ -107,6 +108,7 @@
 		0410AEAC1C195EC4000E2E54 /* ScrollAnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollAnimationViewController.m; sourceTree = SOURCE_ROOT; };
 		0410AEAF1C19610F000E2E54 /* UIView+MLExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+MLExtension.h"; sourceTree = SOURCE_ROOT; };
 		0410AEB01C19610F000E2E54 /* UIView+MLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MLExtension.m"; sourceTree = SOURCE_ROOT; };
+		04DC7FCC1CAB721300B70FDE /* FSCalendarScroll.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = FSCalendarScroll.gif; sourceTree = SOURCE_ROOT; };
 		30024F931BD1015300B1C04C /* DelegateAppearanceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DelegateAppearanceViewController.h; sourceTree = SOURCE_ROOT; };
 		30024F941BD1015300B1C04C /* DelegateAppearanceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DelegateAppearanceViewController.m; sourceTree = SOURCE_ROOT; };
 		309225381B905C4300123031 /* FSCalendarConstance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSCalendarConstance.h; sourceTree = "<group>"; };
@@ -317,6 +319,7 @@
 		EE0D7FC91B89C5D3003C287B /* Example */ = {
 			isa = PBXGroup;
 			children = (
+				04DC7FCC1CAB721300B70FDE /* FSCalendarScroll.gif */,
 				0410AEAA1C195E67000E2E54 /* ScrollAnimation Example */,
 				EEF1EB561BBCBB9C00F1B357 /* FSCalendarTestMacro */,
 				EE638CD51B89DC090006DD1A /* Main_iPad.storyboard */,
@@ -564,6 +567,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04DC7FCD1CAB721300B70FDE /* FSCalendarScroll.gif in Resources */,
 				EE638CDA1B89DC0A0006DD1A /* Main_iPhone.storyboard in Resources */,
 				EE638CDC1B89DC230006DD1A /* Images.xcassets in Resources */,
 				EE638CD91B89DC0A0006DD1A /* Main_iPad.storyboard in Resources */,
