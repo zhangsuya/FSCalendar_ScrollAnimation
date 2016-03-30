@@ -8,7 +8,7 @@
 
 ## screenshoot
 
-image(https://github.com/zhangsuya/FSCalendar_ScrollAnimation/blob/master/Example/FSCalendarScroll.gif)
+![image](https://github.com/zhangsuya/FSCalendar_ScrollAnimation/blob/master/Example/FSCalendarScroll.gif)
 
 ## just an example for FSCalendar 
 
